@@ -1,0 +1,7 @@
+Exercice de test pour le comptage de lettres.
+
+Ce fichier contient plusieurs lignes.
+L'objectif est de compter les occurrences de la lettre 'e'.
+Encore une ligne avec des e en excès.
+
+Bonne chance !
